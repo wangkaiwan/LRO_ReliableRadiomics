@@ -1,4 +1,4 @@
-# LRO_ReliabelRadiomics
+# LRO_ReliableRadiomics
 Implementation for manuscript: [**Towards Reliable Head and Neck Cancers Locoregional Recurrence Prediction using Delta-radiomics and Learning with Rejection Option**](https://arxiv.org/abs/2208.14452).
 
 ## Description
