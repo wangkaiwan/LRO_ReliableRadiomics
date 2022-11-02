@@ -1,4 +1,4 @@
-# LRO_ReliabelRadiomics
+# LRO_ReliableRadiomics
 Implementation for manuscript: [**Towards Reliable Head and Neck Cancers Locoregional Recurrence Prediction using Delta-radiomics and Learning with Rejection Option**](https://arxiv.org/abs/2208.14452).
 
 ## Description
@@ -8,12 +8,11 @@ In this repo, we shared the extracted radiomics features and collected clinical 
 
 
 ## Step by step
-1. Download/collect CT data and corresponding GTV contour.
-2. Data preprocessing and feature extraction.
-3. Feature pre-selection, delta-radiomics feature calculation.
-4. Radiomics model construction.
-5. Epistemic uncertainty and aleatoric uncertainty estimation.
-6. Sample rejection and model performance re-evaluation.
+1. Download the extracted features.
+2. Feature pre-selection, delta-radiomics feature calculation.
+3. Radiomics model construction (Step 2 and 3 are combined in **ModelConstruction** for each modality).
+4. Epistemic uncertainty and aleatoric uncertainty estimation.
+5. Sample rejection and model performance re-evaluation.
 
 
 ## Authors
